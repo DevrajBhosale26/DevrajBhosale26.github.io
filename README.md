@@ -1,2 +1,2 @@
-# DevrajBhosale26.github.io/To-Do-List-App
+# DevrajBhosale26.github.io
 To-Do-List-App
